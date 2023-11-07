@@ -1,2 +1,2 @@
-# jcjenson
-jcJenson official website
+# jcJenson
+Simple fan site.
